@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "1dd9b930ecc5a1e8f063c5fa",
+  "owner": "ktfyum",
+  "repo": "ktfyum.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "b865b0ad8aeaa969ec6671d5",
+      "a": "薯条(SSRCloud)",
+      "b": "网络加速服务",
+      "entity": "薯条(SSRCloud)",
+      "brand": "网络加速服务",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4b3b30f17ef1466e2421afbdf4ec5bf92039ceb4c6e73e8b6542d52dbf93daf3",
+      "content": {
+        "primary_entity": "薯条(SSRCloud)",
+        "keyword1": "薯条(SSRCloud)",
+        "keyword2": "网络加速服务",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再导入订阅链接即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备安装客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和流量预期选定套餐，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐开始使用",
+          "AI_DESCRIPTION": "，围绕设备数量、流量需求和线路偏好提供三档选择，基础版满足轻量使用，旗舰版适合多设备与流媒体场景，团队版面向多人协作与高带宽需求。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备上限与订阅周期三个角度明确选择方向。",
+          "AI_FEATURES_TITLE": "选择前先看这三点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人轻量使用，旗舰版覆盖多设备与流媒体，团队版面向多人高带宽场景。",
+          "AI_FEATURE_TEXT_2": "不同套餐支持的设备同时在线数量不同，按日常手机、电脑和平板总数选择档位。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付平均成本更低，长期使用可按年订阅锁定当前价格。",
+          "AI_FEATURE_TITLE_1": "按用量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备定档位",
+          "AI_FEATURE_TITLE_3": "按周期省费用",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "薯条(SSRCloud)提供多档网络加速套餐，按流量、设备数量和线路需求区分。基础版适合单人轻度使用，旗舰版面向多设备与流媒体需求，团队版满足多人协作高带宽场景。",
+          "AI_HERO_SUBTITLE": "多档套餐按需选",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同流量",
+          "AI_HIGHLIGHT_2": "按设备数量选择档位",
+          "AI_HIGHLIGHT_3": "年付方案降低月均成本",
+          "AI_PLANS_INTRO": "根据日常设备数量和流量预期，在基础版、旗舰版与团队版之间选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "先确定日常同时在线的设备数量和每月大致流量，再对照套餐档位选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度和线路说明，确认是否满足使用场景。",
+          "AI_STEP_TEXT_3": "按对应设备的客户端文档完成安装，导入订阅链接后即可连接使用。",
+          "AI_STEP_TITLE_1": "确定套餐档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "灵活套餐按需选",
+          "AI_FAQ_ANSWER_1": "基础版适合少量设备使用，如果手机、电脑、平板需要同时在线，建议向上选旗舰版或团队版，避免频繁互相挤掉线。",
+          "AI_FAQ_ANSWER_2": "订阅链接生成后，在对应客户端里粘贴导入即可。各客户端导入路径不同，参照所用客户端的文档操作就行。",
+          "AI_FAQ_ANSWER_3": "套餐按设备数区分，从个人到家庭再到团队逐级放宽，家庭多人使用或工作室多设备需求可以直接对应选择。",
+          "AI_FAQ_ANSWER_4": "月付适合短期试用，年付折算后每月更低。如果确定长期用，直接选年付更划算，长期使用无需频繁续费。",
+          "AI_FAQ_ANSWER_5": "旗舰版带 IPLC 专线节点，适合游戏与低延迟场景；团队版提供 VIP 高带宽节点与定制路由，适合多设备并发。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "基础版能同时连几台设备？",
+          "AI_FAQ_QUESTION_2": "拿到订阅后怎么导入客户端？",
+          "AI_FAQ_QUESTION_3": "不同套餐的设备数量怎么选？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪个更合适？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版差别在哪？",
+          "AI_FAQ_TITLE": "套餐与使用答疑"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2eed6682b0e3fbc1d1d8c940142a0f391aaf8e71ccdb3a7e03c94367f8835221",
+    "sitemap.xml": "e537f52e022cda8bb97b1388f46aea65a2a29db2d96a59e4c7bb6f9f1973579e",
+    "robots.txt": "69e86acdc25d46a93529fbb30e72ee7173899f0b4ac48528536b3da239250b4a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "a7b628d4a0f759d9d80769a216d9c121068b0d4938641c7edd96917ef2c19ca3"
+}
